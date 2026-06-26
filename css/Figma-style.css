@@ -160,7 +160,6 @@ main{
 }
 .sec2>.left{
     flex: 1;
-    background-color: #ddd;
     display: flex;
     gap: 30px;
 }
